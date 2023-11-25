@@ -1,0 +1,49 @@
+td { 
+    text-align:center
+}
+body{
+    background-color:black}
+p{
+    color: aliceblue;
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-style:oblique;
+    font-family: sans-serif;
+}
+img{
+    border:crimson;
+}
+a{
+    font-style:oblique;
+    font-family: sans-serif;  
+    color:darkred;
+}
+table, th, td {
+    border: 1px solid aliceblue;
+    color: aliceblue;
+    align-content: center;}
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color: #111;}
